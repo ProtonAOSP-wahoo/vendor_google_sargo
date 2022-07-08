@@ -324,7 +324,7 @@ PRODUCT_PACKAGES += \
     ConnMO \
     DCMO \
     DMService \
-    DeviceIntelligenceNetworkPrebuilt \
+    DeviceIntelligenceNetworkPrebuiltPixel3 \
     DevicePersonalizationPrebuiltPixel3 \
     DiagMon \
     EuiccGoogle \
